@@ -1,0 +1,11 @@
+
+*.pyc
+*.dat
+
+popular_url.txt
+notes.txt
+main.py
+
+_pycache_/
+.idea/
+Data/
