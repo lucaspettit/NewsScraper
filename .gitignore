@@ -2,7 +2,7 @@
 *.pyc
 *.dat
 
-popular_url.txt
+popular_urls.txt
 notes.txt
 main.py
 
